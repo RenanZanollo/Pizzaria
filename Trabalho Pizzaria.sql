@@ -38,9 +38,9 @@ CREATE TABLE embalagem (
 
 INSERT INTO pizzaiolo (id_pizzaiolo, nome, salario)
 VALUES
-    (1, 'Matheus', 1000),
-    (2, 'Isabela', 1500),
-    (3, 'Ohata', 2000),
+    (1, 'Renan', 2000),
+    (2, 'Isabela', 2000),
+    (3, 'Ohata', 7000),
     (4, 'Lucas', 2500),
     (5, 'Gabriel', 3000),
     (6, 'Amanda', 3500),
